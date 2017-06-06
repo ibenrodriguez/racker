@@ -1,0 +1,29 @@
+$ perl vsgtests.pl
+Begin - Mon Jun  5 22:44:31 2017.
+row,hypervisor,tenant,vm,vnic
+row=1 hypervisor=1 T=1 VM=1 VNIC=1
+row=2 hypervisor=1 T=1 VM=1 VNIC=2
+row=3 hypervisor=1 T=1 VM=2 VNIC=1
+row=4 hypervisor=1 T=1 VM=2 VNIC=2
+row=5 hypervisor=1 T=2 VM=3 VNIC=1
+row=6 hypervisor=1 T=2 VM=3 VNIC=2
+row=7 hypervisor=1 T=2 VM=4 VNIC=1
+row=8 hypervisor=1 T=2 VM=4 VNIC=2
+row=9 hypervisor=2 T=1 VM=5 VNIC=1
+row=10 hypervisor=2 T=1 VM=5 VNIC=2
+row=11 hypervisor=2 T=1 VM=6 VNIC=1
+row=12 hypervisor=2 T=1 VM=6 VNIC=2
+row=13 hypervisor=2 T=2 VM=7 VNIC=1
+row=14 hypervisor=2 T=2 VM=7 VNIC=2
+row=15 hypervisor=2 T=2 VM=8 VNIC=1
+row=16 hypervisor=2 T=2 VM=8 VNIC=2
+row=17 hypervisor=3 T=1 VM=9 VNIC=1
+row=18 hypervisor=3 T=1 VM=9 VNIC=2
+row=19 hypervisor=3 T=1 VM=10 VNIC=1
+row=20 hypervisor=3 T=1 VM=10 VNIC=2
+row=21 hypervisor=3 T=2 VM=11 VNIC=1
+row=22 hypervisor=3 T=2 VM=11 VNIC=2
+row=23 hypervisor=3 T=2 VM=12 VNIC=1
+row=24 hypervisor=3 T=2 VM=12 VNIC=2
+Done - Mon Jun  5 22:44:31 2017.
+$ 
